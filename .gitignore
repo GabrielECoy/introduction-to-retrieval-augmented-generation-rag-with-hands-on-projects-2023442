@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 local_index/
+local_index*/
