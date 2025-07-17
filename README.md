@@ -1,3 +1,5 @@
+# Minor initial change
+
 # Introduction to Retrieval Augmented Generation (RAG) with Hands-On Projects
 This is the repository for the LinkedIn Learning course Introduction to Retrieval Augmented Generation (RAG) with Hands-On Projects. The full course is available from [LinkedIn Learning][lil-course-url].
 
